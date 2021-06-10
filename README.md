@@ -1,4 +1,4 @@
-# [Door Detection & Classification] Dataset
+# [Door Detection & Classification] WISSAM Dataset
 This dataset was built for door object detection, classification and semantic segmentation. \
 The images were obtained using a 3D Realsense Camera, model D435. The camera was rotated 90 degrees since its horizontal viewing angle(86 degrees) is bigger than its vertical viewing angle(57 degrees) with the purpose of including all the door area in the images.
 The images captured are from Universidade da Beira Interior, public places and people's houses with several doors and its surroundings with different textures and sizes. \
